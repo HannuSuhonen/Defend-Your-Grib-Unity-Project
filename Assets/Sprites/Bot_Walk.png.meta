@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: f95916a813b3dd240abc9b26389f006a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7814231195752582396
+    second: Bot_Walk_0
+  - first:
+      213: 3385181721410920807
+    second: Bot_Walk_1
+  - first:
+      213: 2384625120042641579
+    second: Bot_Walk_2
+  - first:
+      213: 1170280859814016940
+    second: Bot_Walk_3
+  - first:
+      213: 7989294513653988779
+    second: Bot_Walk_4
+  - first:
+      213: 6138004706254246651
+    second: Bot_Walk_5
+  - first:
+      213: -8820923382752215118
+    second: Bot_Walk_6
+  - first:
+      213: 2562598471443713333
+    second: Bot_Walk_7
+  - first:
+      213: -786080174350449505
+    second: Bot_Walk_8
+  - first:
+      213: -7371899984417738736
+    second: Bot_Walk_9
+  - first:
+      213: -5421538084450779272
+    second: Bot_Walk_10
+  - first:
+      213: -8842277801065425506
+    second: Bot_Walk_11
+  - first:
+      213: 1721655110970645013
+    second: Bot_Walk_12
+  - first:
+      213: 1147272708796975886
+    second: Bot_Walk_13
+  - first:
+      213: 6250305891470923499
+    second: Bot_Walk_14
+  - first:
+      213: -8102126376714020286
+    second: Bot_Walk_15
+  - first:
+      213: 2715177121960635879
+    second: Bot_Walk_16
+  - first:
+      213: 4077525066616243765
+    second: Bot_Walk_17
+  - first:
+      213: 7400105793566571189
+    second: Bot_Walk_18
+  - first:
+      213: 9072651836811691553
+    second: Bot_Walk_19
+  - first:
+      213: 506660702921276165
+    second: Bot_Walk_20
+  - first:
+      213: -8045581360991160321
+    second: Bot_Walk_21
+  - first:
+      213: 6514170456597060167
+    second: Bot_Walk_22
+  - first:
+      213: 6693573284771632472
+    second: Bot_Walk_23
+  - first:
+      213: 7977821948238251748
+    second: Bot_Walk_24
+  - first:
+      213: -817195490844098808
+    second: Bot_Walk_25
+  - first:
+      213: 2070235047327743331
+    second: Bot_Walk_26
+  - first:
+      213: 8977662154882465542
+    second: Bot_Walk_27
+  - first:
+      213: -7010342615493461723
+    second: Bot_Walk_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bot_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 569
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b67b09b4ed14cc468dee6564ee7e8dc
+      internalID: -7814231195752582396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 573
+        width: 93
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1597a502a5bd1cd42a5e3db05029eb88
+      internalID: 3385181721410920807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 575
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0230e36561674d974e125db10e973
+      internalID: 2384625120042641579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 576
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7fa276ffd875c49a19883473dc8d0d
+      internalID: 1170280859814016940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923c39667095ae74497f9d2b019a2475
+      internalID: 7989294513653988779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 576
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7974f411c18844a6d2bdd362ecde6
+      internalID: 6138004706254246651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 435
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeac84fa8ba85c4b931bccf3d119539
+      internalID: -8820923382752215118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 434
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df291a2c0857f4ab0b07a539af71cc
+      internalID: 2562598471443713333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 433
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114dbe00db55775498ce34a628fac7f5
+      internalID: -786080174350449505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 432
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fef982cf013d41b9fe33cce814f08
+      internalID: -7371899984417738736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 431
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc3c1ae39ac9946a19ea7a42e92380
+      internalID: -5421538084450779272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 431
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962b5a0e7fe49644f8bb9efb8378f77c
+      internalID: -8842277801065425506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 291
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231ac300edc5ae49b3c66b86242738a
+      internalID: 1721655110970645013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd60e320a2e38a4babb967373530b14
+      internalID: 1147272708796975886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 283
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807986aab21636640b282d54e7f2c516
+      internalID: 6250305891470923499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 284
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f611ede4ed6db4e926fb370cc3e84e
+      internalID: -8102126376714020286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 284
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff8a6b770326004fafc9fa68a9c3d37
+      internalID: 2715177121960635879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 285
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb5b65396d2bc44b5d51b1fbb30d14
+      internalID: 4077525066616243765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a1ae807459064584dea637cf4d3e6
+      internalID: 7400105793566571189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 145
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8f5da8f2bd2b4296d411ba99d541a
+      internalID: 9072651836811691553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac802434be16344bad87f21e36a3d90
+      internalID: 506660702921276165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25a5e8defe7f044889c3700c9457a7
+      internalID: -8045581360991160321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 146
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad9f2a55776db49b6fc9e444a2eebd
+      internalID: 6514170456597060167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 147
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226ed6ef29741e4e9d41948b6e6bb6e
+      internalID: 6693573284771632472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 7
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b9d930a8839541bb9aff5de4771e4
+      internalID: 7977821948238251748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619921856ad352408135a596aaa2f46
+      internalID: -817195490844098808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4adcd6aebff0a4fb863090341c67c1
+      internalID: 2070235047327743331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed4e352859f7943a0c238f79a1cbc6
+      internalID: 8977662154882465542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6061ac02fa3f4eb3407de9f3109d9
+      internalID: -7010342615493461723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

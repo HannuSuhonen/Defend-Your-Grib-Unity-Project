@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGround
+    uniqueID: 1485956787
+    locked: 0
+  - name: Gameplay Elements
+    uniqueID: 1053206179
+    locked: 0
+  - name: Trees
+    uniqueID: 908539857
+    locked: 0

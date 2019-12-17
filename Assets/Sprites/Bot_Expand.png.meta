@@ -1,0 +1,3217 @@
+fileFormatVersion: 2
+guid: 596767cc06bd17543853c6f257b147e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2223459817649916846
+    second: Bot_Expand_0
+  - first:
+      213: 8770052521215504833
+    second: Bot_Expand_1
+  - first:
+      213: -1994475884993540504
+    second: Bot_Expand_2
+  - first:
+      213: -1134337121275658538
+    second: Bot_Expand_3
+  - first:
+      213: -4164270185900649203
+    second: Bot_Expand_4
+  - first:
+      213: 8764970843790506655
+    second: Bot_Expand_5
+  - first:
+      213: 5013380467558319984
+    second: Bot_Expand_6
+  - first:
+      213: -1387878141554153941
+    second: Bot_Expand_7
+  - first:
+      213: 1202616583125766736
+    second: Bot_Expand_8
+  - first:
+      213: -4206151243648782604
+    second: Bot_Expand_9
+  - first:
+      213: -1455386703954344075
+    second: Bot_Expand_10
+  - first:
+      213: 209337987923840397
+    second: Bot_Expand_11
+  - first:
+      213: -7539757255256045567
+    second: Bot_Expand_12
+  - first:
+      213: -8294079312132926548
+    second: Bot_Expand_13
+  - first:
+      213: 2931250400042238405
+    second: Bot_Expand_14
+  - first:
+      213: 8492466183090037955
+    second: Bot_Expand_15
+  - first:
+      213: -4653112744129862428
+    second: Bot_Expand_16
+  - first:
+      213: 4669141317513448253
+    second: Bot_Expand_17
+  - first:
+      213: -6494910499840309619
+    second: Bot_Expand_18
+  - first:
+      213: 8770739681811492418
+    second: Bot_Expand_19
+  - first:
+      213: -6660512538463927524
+    second: Bot_Expand_20
+  - first:
+      213: 7284860773088749155
+    second: Bot_Expand_21
+  - first:
+      213: 1933222492382538362
+    second: Bot_Expand_22
+  - first:
+      213: 7359716447348806453
+    second: Bot_Expand_23
+  - first:
+      213: -4538729456136539507
+    second: Bot_Expand_24
+  - first:
+      213: 7351975412220212986
+    second: Bot_Expand_25
+  - first:
+      213: -1310247503504909884
+    second: Bot_Expand_26
+  - first:
+      213: -7684928598511592544
+    second: Bot_Expand_27
+  - first:
+      213: -3896638496314649084
+    second: Bot_Expand_28
+  - first:
+      213: 52909911765579847
+    second: Bot_Expand_29
+  - first:
+      213: 7837167933216039917
+    second: Bot_Expand_30
+  - first:
+      213: -4479538934776877779
+    second: Bot_Expand_31
+  - first:
+      213: -1744519112130130630
+    second: Bot_Expand_32
+  - first:
+      213: 5480021717943824374
+    second: Bot_Expand_33
+  - first:
+      213: 6521786192728867472
+    second: Bot_Expand_34
+  - first:
+      213: 7186831716778225664
+    second: Bot_Expand_35
+  - first:
+      213: 2186546769346785360
+    second: Bot_Expand_36
+  - first:
+      213: 838379929251527196
+    second: Bot_Expand_37
+  - first:
+      213: 3564488284247967418
+    second: Bot_Expand_38
+  - first:
+      213: 3004821834038171691
+    second: Bot_Expand_39
+  - first:
+      213: -777711113387573945
+    second: Bot_Expand_40
+  - first:
+      213: -5737727131394376571
+    second: Bot_Expand_41
+  - first:
+      213: 6087806040773972449
+    second: Bot_Expand_42
+  - first:
+      213: 6380427555610774141
+    second: Bot_Expand_43
+  - first:
+      213: 146016192239530329
+    second: Bot_Expand_44
+  - first:
+      213: -1649057138621762310
+    second: Bot_Expand_45
+  - first:
+      213: -7079535444917359136
+    second: Bot_Expand_46
+  - first:
+      213: 2668552325173801986
+    second: Bot_Expand_47
+  - first:
+      213: 39218669057183921
+    second: Bot_Expand_48
+  - first:
+      213: 258083639248837958
+    second: Bot_Expand_49
+  - first:
+      213: 8415010970456707686
+    second: Bot_Expand_50
+  - first:
+      213: -6076396459163739103
+    second: Bot_Expand_51
+  - first:
+      213: -3987913744079760744
+    second: Bot_Expand_52
+  - first:
+      213: -6642635096088020320
+    second: Bot_Expand_53
+  - first:
+      213: -2954475737706335733
+    second: Bot_Expand_54
+  - first:
+      213: -8089938761765046472
+    second: Bot_Expand_55
+  - first:
+      213: -8625798757770666942
+    second: Bot_Expand_56
+  - first:
+      213: 1235476642860476681
+    second: Bot_Expand_57
+  - first:
+      213: -4281616321259286888
+    second: Bot_Expand_58
+  - first:
+      213: 201548280538697834
+    second: Bot_Expand_59
+  - first:
+      213: 1409828026977339557
+    second: Bot_Expand_60
+  - first:
+      213: -1323671212578205142
+    second: Bot_Expand_61
+  - first:
+      213: 4182423723312311634
+    second: Bot_Expand_62
+  - first:
+      213: 9173116884484516358
+    second: Bot_Expand_63
+  - first:
+      213: -2418608315909423836
+    second: Bot_Expand_64
+  - first:
+      213: 6983362182623189684
+    second: Bot_Expand_65
+  - first:
+      213: 6850623465480812397
+    second: Bot_Expand_66
+  - first:
+      213: 2131689780957310357
+    second: Bot_Expand_67
+  - first:
+      213: -8564481391727563788
+    second: Bot_Expand_68
+  - first:
+      213: 9151392143345074802
+    second: Bot_Expand_69
+  - first:
+      213: 8398373438361444901
+    second: Bot_Expand_70
+  - first:
+      213: -8014743126408921523
+    second: Bot_Expand_71
+  - first:
+      213: -8523072457842123610
+    second: Bot_Expand_72
+  - first:
+      213: 5251618877524376386
+    second: Bot_Expand_73
+  - first:
+      213: 6580099256208937112
+    second: Bot_Expand_74
+  - first:
+      213: -447100484127450057
+    second: Bot_Expand_75
+  - first:
+      213: 9171973371751875323
+    second: Bot_Expand_76
+  - first:
+      213: -3834467913133252101
+    second: Bot_Expand_77
+  - first:
+      213: 5034984691105966288
+    second: Bot_Expand_78
+  - first:
+      213: -1766961680666593368
+    second: Bot_Expand_79
+  - first:
+      213: 1629761142320243479
+    second: Bot_Expand_80
+  - first:
+      213: 8112483527305297985
+    second: Bot_Expand_81
+  - first:
+      213: 1987356538690775370
+    second: Bot_Expand_82
+  - first:
+      213: -2331160448321133853
+    second: Bot_Expand_83
+  - first:
+      213: -8839528336627181087
+    second: Bot_Expand_84
+  - first:
+      213: -7818688449225587603
+    second: Bot_Expand_85
+  - first:
+      213: -2492693709568152311
+    second: Bot_Expand_86
+  - first:
+      213: 7619448893381468640
+    second: Bot_Expand_87
+  - first:
+      213: -6612143084407911661
+    second: Bot_Expand_88
+  - first:
+      213: -4423980250523992749
+    second: Bot_Expand_89
+  - first:
+      213: -3651915578665982902
+    second: Bot_Expand_90
+  - first:
+      213: 8189676543826874836
+    second: Bot_Expand_91
+  - first:
+      213: 9064529784685903430
+    second: Bot_Expand_92
+  - first:
+      213: -1600378680696448079
+    second: Bot_Expand_93
+  - first:
+      213: -7218037377438244044
+    second: Bot_Expand_94
+  - first:
+      213: -3599348033722142268
+    second: Bot_Expand_95
+  - first:
+      213: -2398988656425839122
+    second: Bot_Expand_96
+  - first:
+      213: 8257509222670639022
+    second: Bot_Expand_97
+  - first:
+      213: -5241131120737002701
+    second: Bot_Expand_98
+  - first:
+      213: 7970000845143735353
+    second: Bot_Expand_99
+  - first:
+      213: -644391140495415329
+    second: Bot_Expand_100
+  - first:
+      213: 5583005089727929489
+    second: Bot_Expand_101
+  - first:
+      213: 2088613748205012166
+    second: Bot_Expand_102
+  - first:
+      213: -1015225521868002848
+    second: Bot_Expand_103
+  - first:
+      213: -4068970084126326335
+    second: Bot_Expand_104
+  - first:
+      213: 3850371620289316293
+    second: Bot_Expand_105
+  - first:
+      213: -3262193890999073601
+    second: Bot_Expand_106
+  - first:
+      213: -3603299715924226575
+    second: Bot_Expand_107
+  - first:
+      213: -6098281389433363256
+    second: Bot_Expand_108
+  - first:
+      213: 5163851516498766009
+    second: Bot_Expand_109
+  - first:
+      213: 6607081798415626547
+    second: Bot_Expand_110
+  - first:
+      213: 9217674122702862323
+    second: Bot_Expand_111
+  - first:
+      213: -9083006351239873531
+    second: Bot_Expand_112
+  - first:
+      213: 6902687462978499303
+    second: Bot_Expand_113
+  - first:
+      213: -4559863109688074627
+    second: Bot_Expand_114
+  - first:
+      213: -2766957358829649617
+    second: Bot_Expand_115
+  - first:
+      213: 4792522278282039114
+    second: Bot_Expand_116
+  - first:
+      213: 8787447924752969145
+    second: Bot_Expand_117
+  - first:
+      213: 6723530413906186300
+    second: Bot_Expand_118
+  - first:
+      213: 943146080918587021
+    second: Bot_Expand_119
+  - first:
+      213: -7952379286244447344
+    second: Bot_Expand_120
+  - first:
+      213: -8782303680869771579
+    second: Bot_Expand_121
+  - first:
+      213: -8797074476369329536
+    second: Bot_Expand_122
+  - first:
+      213: 2622394937086103833
+    second: Bot_Expand_123
+  - first:
+      213: -5036973645656343081
+    second: Bot_Expand_124
+  - first:
+      213: 7032193013540787763
+    second: Bot_Expand_125
+  - first:
+      213: 369182553316473946
+    second: Bot_Expand_126
+  - first:
+      213: -8053026356139840048
+    second: Bot_Expand_127
+  - first:
+      213: 7462388176175362985
+    second: Bot_Expand_128
+  - first:
+      213: 1998603966347898420
+    second: Bot_Expand_129
+  - first:
+      213: 3042669471358664987
+    second: Bot_Expand_130
+  - first:
+      213: -898414898835610892
+    second: Bot_Expand_131
+  - first:
+      213: -3132464315774567482
+    second: Bot_Expand_132
+  - first:
+      213: -6940424625118397590
+    second: Bot_Expand_133
+  - first:
+      213: -5870619930340966889
+    second: Bot_Expand_134
+  - first:
+      213: -6050770754500819786
+    second: Bot_Expand_135
+  - first:
+      213: -2595152857487025410
+    second: Bot_Expand_136
+  - first:
+      213: -1484640148330623817
+    second: Bot_Expand_137
+  - first:
+      213: 116444656958798799
+    second: Bot_Expand_138
+  - first:
+      213: 7731306799192876348
+    second: Bot_Expand_139
+  - first:
+      213: 937574635787364463
+    second: Bot_Expand_140
+  - first:
+      213: 6267137693534705943
+    second: Bot_Expand_141
+  - first:
+      213: 5320436435001606379
+    second: Bot_Expand_142
+  - first:
+      213: -4011241590150799981
+    second: Bot_Expand_143
+  - first:
+      213: 9017634317963758231
+    second: Bot_Expand_144
+  - first:
+      213: 5374815967471281936
+    second: Bot_Expand_145
+  - first:
+      213: 865409607668246406
+    second: Bot_Expand_146
+  - first:
+      213: -4970102703482128521
+    second: Bot_Expand_147
+  - first:
+      213: -8644501137568391356
+    second: Bot_Expand_148
+  - first:
+      213: 3554019090427121320
+    second: Bot_Expand_149
+  - first:
+      213: -4825840517204967653
+    second: Bot_Expand_150
+  - first:
+      213: -3462769643642667297
+    second: Bot_Expand_151
+  - first:
+      213: 1627661577766455198
+    second: Bot_Expand_152
+  - first:
+      213: 1903300251422542551
+    second: Bot_Expand_153
+  - first:
+      213: -7853328301255047587
+    second: Bot_Expand_154
+  - first:
+      213: 7833413700925363059
+    second: Bot_Expand_155
+  - first:
+      213: -1599393896793746476
+    second: Bot_Expand_156
+  - first:
+      213: -6672540291243988040
+    second: Bot_Expand_157
+  - first:
+      213: 4068867991293051947
+    second: Bot_Expand_158
+  - first:
+      213: -93627933631829672
+    second: Bot_Expand_159
+  - first:
+      213: 916594247658366227
+    second: Bot_Expand_160
+  - first:
+      213: 1873277984565625219
+    second: Bot_Expand_161
+  - first:
+      213: 6609476818111376927
+    second: Bot_Expand_162
+  - first:
+      213: 5705793235851634571
+    second: Bot_Expand_163
+  - first:
+      213: 7168542980390476243
+    second: Bot_Expand_164
+  - first:
+      213: -4871685792275170577
+    second: Bot_Expand_165
+  - first:
+      213: -2101941667471960201
+    second: Bot_Expand_166
+  - first:
+      213: -7181681305565049741
+    second: Bot_Expand_167
+  - first:
+      213: 4028118362530720985
+    second: Bot_Expand_168
+  - first:
+      213: -3738464719755276696
+    second: Bot_Expand_169
+  - first:
+      213: -8868071399762027843
+    second: Bot_Expand_170
+  - first:
+      213: -6775799397982429879
+    second: Bot_Expand_171
+  - first:
+      213: 7010589258929634554
+    second: Bot_Expand_172
+  - first:
+      213: -6842135664690897961
+    second: Bot_Expand_173
+  - first:
+      213: -3444972962545061037
+    second: Bot_Expand_174
+  - first:
+      213: 8775481829864697955
+    second: Bot_Expand_175
+  - first:
+      213: 6379291330015093125
+    second: Bot_Expand_176
+  - first:
+      213: 6242172967619661496
+    second: Bot_Expand_177
+  - first:
+      213: 7485854921742842374
+    second: Bot_Expand_178
+  - first:
+      213: 5983858542800774624
+    second: Bot_Expand_179
+  - first:
+      213: 6433446843702156434
+    second: Bot_Expand_180
+  - first:
+      213: 8178552774898399089
+    second: Bot_Expand_181
+  - first:
+      213: -4937487141555913673
+    second: Bot_Expand_182
+  - first:
+      213: -7817294154238052616
+    second: Bot_Expand_183
+  - first:
+      213: -92442366365312931
+    second: Bot_Expand_184
+  - first:
+      213: 2496698349156078974
+    second: Bot_Expand_185
+  - first:
+      213: 536593017244771627
+    second: Bot_Expand_186
+  - first:
+      213: 8751120340972305997
+    second: Bot_Expand_187
+  - first:
+      213: 1382847544309136142
+    second: Bot_Expand_188
+  - first:
+      213: -3577834577251751715
+    second: Bot_Expand_189
+  - first:
+      213: 6632039933352511413
+    second: Bot_Expand_190
+  - first:
+      213: 5247824333298537294
+    second: Bot_Expand_191
+  - first:
+      213: 4136986796873751467
+    second: Bot_Expand_192
+  - first:
+      213: 7522082333144942826
+    second: Bot_Expand_193
+  - first:
+      213: 6843754650848252188
+    second: Bot_Expand_194
+  - first:
+      213: 8657908419593561432
+    second: Bot_Expand_195
+  - first:
+      213: -5360160325831537175
+    second: Bot_Expand_196
+  - first:
+      213: -4903445683182561095
+    second: Bot_Expand_197
+  - first:
+      213: 76757029089565674
+    second: Bot_Expand_198
+  - first:
+      213: 3107519061309747298
+    second: Bot_Expand_199
+  - first:
+      213: -452916351890257095
+    second: Bot_Expand_200
+  - first:
+      213: -2376564826136705776
+    second: Bot_Expand_201
+  - first:
+      213: -376351539402589578
+    second: Bot_Expand_202
+  - first:
+      213: -2920557925461076441
+    second: Bot_Expand_203
+  - first:
+      213: -8736629634529620122
+    second: Bot_Expand_204
+  - first:
+      213: 428806535717552967
+    second: Bot_Expand_205
+  - first:
+      213: 7512154019409345730
+    second: Bot_Expand_206
+  - first:
+      213: 4150398801861713669
+    second: Bot_Expand_207
+  - first:
+      213: 2644361460523448481
+    second: Bot_Expand_208
+  - first:
+      213: 2043379126787818051
+    second: Bot_Expand_209
+  - first:
+      213: -7607772161699481040
+    second: Bot_Expand_210
+  - first:
+      213: -8739909879469977068
+    second: Bot_Expand_211
+  - first:
+      213: -8966014325860845740
+    second: Bot_Expand_212
+  - first:
+      213: -8844608947899717621
+    second: Bot_Expand_213
+  - first:
+      213: 941570067354503564
+    second: Bot_Expand_214
+  - first:
+      213: -8760658500776276271
+    second: Bot_Expand_215
+  - first:
+      213: -748456837621030926
+    second: Bot_Expand_216
+  - first:
+      213: -8292244266321949048
+    second: Bot_Expand_217
+  - first:
+      213: -5123879170718366660
+    second: Bot_Expand_218
+  - first:
+      213: -2496229076297554420
+    second: Bot_Expand_219
+  - first:
+      213: 7108887396104188576
+    second: Bot_Expand_220
+  - first:
+      213: 8093214575947838286
+    second: Bot_Expand_221
+  - first:
+      213: -5126849628725511275
+    second: Bot_Expand_222
+  - first:
+      213: -5853214321783327187
+    second: Bot_Expand_223
+  - first:
+      213: -2666906793823124285
+    second: Bot_Expand_224
+  - first:
+      213: 4603129546060791737
+    second: Bot_Expand_225
+  - first:
+      213: -5689037562261195329
+    second: Bot_Expand_226
+  - first:
+      213: -4125779815541353664
+    second: Bot_Expand_227
+  - first:
+      213: 4221579619811081793
+    second: Bot_Expand_228
+  - first:
+      213: -7336310408535907421
+    second: Bot_Expand_229
+  - first:
+      213: -7185692937327016661
+    second: Bot_Expand_230
+  - first:
+      213: -4709816865681444990
+    second: Bot_Expand_231
+  - first:
+      213: 21338979754541230
+    second: Bot_Expand_232
+  - first:
+      213: 7187148441459900593
+    second: Bot_Expand_233
+  - first:
+      213: 5415587633362136122
+    second: Bot_Expand_234
+  - first:
+      213: 5882557951938192905
+    second: Bot_Expand_235
+  - first:
+      213: -6051136876439274755
+    second: Bot_Expand_236
+  - first:
+      213: 4798143884444781177
+    second: Bot_Expand_237
+  - first:
+      213: 1144150800049115224
+    second: Bot_Expand_238
+  - first:
+      213: 2262407249425574701
+    second: Bot_Expand_239
+  - first:
+      213: 2370921613825192925
+    second: Bot_Expand_240
+  - first:
+      213: 9062839778607952897
+    second: Bot_Expand_241
+  - first:
+      213: 4018039372266513901
+    second: Bot_Expand_242
+  - first:
+      213: 4804749079161864399
+    second: Bot_Expand_243
+  - first:
+      213: 3099083792243033104
+    second: Bot_Expand_244
+  - first:
+      213: 3664200143526810651
+    second: Bot_Expand_245
+  - first:
+      213: -7356618608035356030
+    second: Bot_Expand_246
+  - first:
+      213: -2159554132537698263
+    second: Bot_Expand_247
+  - first:
+      213: -5468363845205898158
+    second: Bot_Expand_248
+  - first:
+      213: 4866441511634385106
+    second: Bot_Expand_249
+  - first:
+      213: 6554212414775301631
+    second: Bot_Expand_250
+  - first:
+      213: -8757350969413746459
+    second: Bot_Expand_251
+  - first:
+      213: -441815620361050212
+    second: Bot_Expand_252
+  - first:
+      213: -5746174923734012861
+    second: Bot_Expand_253
+  - first:
+      213: -4824915020668553966
+    second: Bot_Expand_254
+  - first:
+      213: -2113524978318325032
+    second: Bot_Expand_255
+  - first:
+      213: 9185777138318742862
+    second: Bot_Expand_256
+  - first:
+      213: -4136906702537125030
+    second: Bot_Expand_257
+  - first:
+      213: 4819659184352178168
+    second: Bot_Expand_258
+  - first:
+      213: 2240357545692136852
+    second: Bot_Expand_259
+  - first:
+      213: -1298390806909589744
+    second: Bot_Expand_260
+  - first:
+      213: 3321529769828285669
+    second: Bot_Expand_261
+  - first:
+      213: -894191478575114680
+    second: Bot_Expand_262
+  - first:
+      213: 2484946699688945791
+    second: Bot_Expand_263
+  - first:
+      213: 6734968980319527655
+    second: Bot_Expand_264
+  - first:
+      213: 7418903632903659169
+    second: Bot_Expand_265
+  - first:
+      213: -8102057539212696173
+    second: Bot_Expand_266
+  - first:
+      213: 1327616791614550711
+    second: Bot_Expand_267
+  - first:
+      213: -2334748742957616824
+    second: Bot_Expand_268
+  - first:
+      213: 5108646471886256124
+    second: Bot_Expand_269
+  - first:
+      213: -2376421875417302514
+    second: Bot_Expand_270
+  - first:
+      213: 3620867986863379758
+    second: Bot_Expand_271
+  - first:
+      213: -8044832492599829711
+    second: Bot_Expand_272
+  - first:
+      213: -7469326017084181493
+    second: Bot_Expand_273
+  - first:
+      213: 611049423310938157
+    second: Bot_Expand_274
+  - first:
+      213: 562652184557447409
+    second: Bot_Expand_275
+  - first:
+      213: 170279546622991932
+    second: Bot_Expand_276
+  - first:
+      213: 3898003565585041848
+    second: Bot_Expand_277
+  - first:
+      213: -6040518870836020208
+    second: Bot_Expand_278
+  - first:
+      213: -3736751777672455306
+    second: Bot_Expand_279
+  - first:
+      213: 8829130533799150483
+    second: Bot_Expand_280
+  - first:
+      213: 5108497765982143082
+    second: Bot_Expand_281
+  - first:
+      213: -6636431264543778335
+    second: Bot_Expand_282
+  - first:
+      213: 3551918228444027297
+    second: Bot_Expand_283
+  - first:
+      213: 7395546717525788893
+    second: Bot_Expand_284
+  - first:
+      213: 2246369751457902994
+    second: Bot_Expand_285
+  - first:
+      213: 1323519648109216457
+    second: Bot_Expand_286
+  - first:
+      213: -3173119763332818057
+    second: Bot_Expand_287
+  - first:
+      213: 8794603499161327090
+    second: Bot_Expand_288
+  - first:
+      213: -5930279748428735612
+    second: Bot_Expand_289
+  - first:
+      213: 4043391426673513180
+    second: Bot_Expand_290
+  - first:
+      213: -5382677511521591128
+    second: Bot_Expand_291
+  - first:
+      213: 5014905665380183507
+    second: Bot_Expand_292
+  - first:
+      213: 8088287263933615554
+    second: Bot_Expand_293
+  - first:
+      213: -8470056144073341112
+    second: Bot_Expand_294
+  - first:
+      213: 3592325288020265395
+    second: Bot_Expand_295
+  - first:
+      213: 2771926812196326393
+    second: Bot_Expand_296
+  - first:
+      213: -6804450369647108626
+    second: Bot_Expand_297
+  - first:
+      213: 5244920900962349179
+    second: Bot_Expand_298
+  - first:
+      213: -6137959373066645412
+    second: Bot_Expand_299
+  - first:
+      213: -6896031198506025845
+    second: Bot_Expand_300
+  - first:
+      213: 7239704306450621271
+    second: Bot_Expand_301
+  - first:
+      213: 7951747788186786791
+    second: Bot_Expand_302
+  - first:
+      213: 2814894464531376552
+    second: Bot_Expand_303
+  - first:
+      213: -5999099443125019691
+    second: Bot_Expand_304
+  - first:
+      213: 540706362835089746
+    second: Bot_Expand_305
+  - first:
+      213: 8765546121971207872
+    second: Bot_Expand_306
+  - first:
+      213: -1066580099073005976
+    second: Bot_Expand_307
+  - first:
+      213: 1717042235267583344
+    second: Bot_Expand_308
+  - first:
+      213: 3912411829321933816
+    second: Bot_Expand_309
+  - first:
+      213: 6763829832973540174
+    second: Bot_Expand_310
+  - first:
+      213: -334777039812181859
+    second: Bot_Expand_311
+  - first:
+      213: -6017070531083880303
+    second: Bot_Expand_312
+  - first:
+      213: 3321891058509315693
+    second: Bot_Expand_313
+  - first:
+      213: 865490121527901528
+    second: Bot_Expand_314
+  - first:
+      213: 2594629250210605005
+    second: Bot_Expand_315
+  - first:
+      213: 5491432129471297079
+    second: Bot_Expand_316
+  - first:
+      213: -1586344336259623006
+    second: Bot_Expand_317
+  - first:
+      213: 8750928659386788234
+    second: Bot_Expand_318
+  - first:
+      213: 8598130069810757967
+    second: Bot_Expand_319
+  - first:
+      213: 3890328608263235351
+    second: Bot_Expand_320
+  - first:
+      213: -2733511603087747288
+    second: Bot_Expand_321
+  - first:
+      213: -6030044155930370185
+    second: Bot_Expand_322
+  - first:
+      213: 3857210373822832986
+    second: Bot_Expand_323
+  - first:
+      213: -5938641605136601936
+    second: Bot_Expand_324
+  - first:
+      213: 188535016354758547
+    second: Bot_Expand_325
+  - first:
+      213: -4001264447395781678
+    second: Bot_Expand_326
+  - first:
+      213: 3812893246786001143
+    second: Bot_Expand_327
+  - first:
+      213: -2913414979581552823
+    second: Bot_Expand_328
+  - first:
+      213: 4121571621116096898
+    second: Bot_Expand_329
+  - first:
+      213: 1267487786778781816
+    second: Bot_Expand_330
+  - first:
+      213: 7394261943376960549
+    second: Bot_Expand_331
+  - first:
+      213: -768441047474797762
+    second: Bot_Expand_332
+  - first:
+      213: 1527594191879060254
+    second: Bot_Expand_333
+  - first:
+      213: 1548909712415591885
+    second: Bot_Expand_334
+  - first:
+      213: 953493353846359782
+    second: Bot_Expand_335
+  - first:
+      213: 3250849025163196386
+    second: Bot_Expand_336
+  - first:
+      213: 2765970988934238494
+    second: Bot_Expand_337
+  - first:
+      213: 2229875286269049742
+    second: Bot_Expand_338
+  - first:
+      213: -6196371072190783460
+    second: Bot_Expand_339
+  - first:
+      213: -1427212365611099524
+    second: Bot_Expand_340
+  - first:
+      213: 4233400115001541865
+    second: Bot_Expand_341
+  - first:
+      213: -6809257976761910430
+    second: Bot_Expand_342
+  - first:
+      213: 3292955652089084540
+    second: Bot_Expand_343
+  - first:
+      213: -428538960054511047
+    second: Bot_Expand_344
+  - first:
+      213: 4057353518646882737
+    second: Bot_Expand_345
+  - first:
+      213: 3052437108087104743
+    second: Bot_Expand_346
+  - first:
+      213: -208047684109331186
+    second: Bot_Expand_347
+  - first:
+      213: -3899670917555110020
+    second: Bot_Expand_348
+  - first:
+      213: 4712284142841851700
+    second: Bot_Expand_349
+  - first:
+      213: 6057244625991587657
+    second: Bot_Expand_350
+  - first:
+      213: -6771683665141053829
+    second: Bot_Expand_351
+  - first:
+      213: -4078332724814839852
+    second: Bot_Expand_352
+  - first:
+      213: -1346249301894450042
+    second: Bot_Expand_353
+  - first:
+      213: -4486309681849305493
+    second: Bot_Expand_354
+  - first:
+      213: -5923269113070010939
+    second: Bot_Expand_355
+  - first:
+      213: -6297284319408433026
+    second: Bot_Expand_356
+  - first:
+      213: 7117554368600171215
+    second: Bot_Expand_357
+  - first:
+      213: -4037509696500641236
+    second: Bot_Expand_358
+  - first:
+      213: -3104845720483611691
+    second: Bot_Expand_359
+  - first:
+      213: -1341797237831963497
+    second: Bot_Expand_360
+  - first:
+      213: 2262374665797113944
+    second: Bot_Expand_361
+  - first:
+      213: 1675711734771610811
+    second: Bot_Expand_362
+  - first:
+      213: -1309934168584502756
+    second: Bot_Expand_363
+  - first:
+      213: -1258107397523017285
+    second: Bot_Expand_364
+  - first:
+      213: -6366547107091278875
+    second: Bot_Expand_365
+  - first:
+      213: -3699947624135837374
+    second: Bot_Expand_366
+  - first:
+      213: -1558858259393862336
+    second: Bot_Expand_367
+  - first:
+      213: 2904861986357833150
+    second: Bot_Expand_368
+  - first:
+      213: -5193977992547196008
+    second: Bot_Expand_369
+  - first:
+      213: -6270369318482497054
+    second: Bot_Expand_370
+  - first:
+      213: 2280853510305015118
+    second: Bot_Expand_371
+  - first:
+      213: 8658724955145030251
+    second: Bot_Expand_372
+  - first:
+      213: -6161021520218738669
+    second: Bot_Expand_373
+  - first:
+      213: 3306382899977608292
+    second: Bot_Expand_374
+  - first:
+      213: 8795680271482783469
+    second: Bot_Expand_375
+  - first:
+      213: 6690429469917452910
+    second: Bot_Expand_376
+  - first:
+      213: 3793665612100650822
+    second: Bot_Expand_377
+  - first:
+      213: -1340859579498546596
+    second: Bot_Expand_378
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bot_Expand_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c5e25e37501547bb465305b789ab7
+      internalID: -2223459817649916846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d01ba1a0e5fe446a77e2c464ac3517
+      internalID: -1994475884993540504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0956c668d3b33148a9b54a0424fd88b
+      internalID: -1134337121275658538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f80a1ce7f8a534d8b2d0c70679e5d7
+      internalID: -4164270185900649203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe01f0a53153f48b2f1e67edf6c4df
+      internalID: 8764970843790506655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_6
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1821
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061594ba64b7cae478f34c03fe4b79ee
+      internalID: 5013380467558319984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1681
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b4c3bfd881054b9a5b1d62c93367d
+      internalID: -1387878141554153941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1681
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6035ff9df07642ab7a73b75d8a447
+      internalID: 1202616583125766736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885727dfef37e5c4991564c90c156eea
+      internalID: -4206151243648782604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da865364d8bd47346803e2ebd8dd86df
+      internalID: -1455386703954344075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_11
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e906dc9baacf414ba2e1e2be1a9428c
+      internalID: 209337987923840397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaadec858e198964c8655e0004a8aadb
+      internalID: -7539757255256045567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1681
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f75ed5df550c4a9771184a8c430d2
+      internalID: -8294079312132926548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66142d19979e11b48a706a3628e12b20
+      internalID: 2931250400042238405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4698f8fdfcefe3f4ead649b1db5db72f
+      internalID: 8492466183090037955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc11269010ed3a4c803009fcf7179e2
+      internalID: -4653112744129862428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5bcae7daa6ba488874e03982c0210
+      internalID: 4669141317513448253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1540
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08abdce61b227439ef2207547c703b
+      internalID: -6494910499840309619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1541
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a49a724b961ad4b90a6839c97dcddb
+      internalID: 8770739681811492418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1540
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b4be15cb8aee459613b31727c6fa5
+      internalID: -6660512538463927524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1401
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725254625fc3384a9a010c78af04d47
+      internalID: 7284860773088749155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5211c0d21ea6f4e9c48738aae26509
+      internalID: 1933222492382538362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1401
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623fc1835ceab6d4aa2c0396604662f9
+      internalID: 7359716447348806453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1400
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73688f620de13404eae2de30912d1acb
+      internalID: -4538729456136539507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_25
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1401
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d2fa97aa0e61468bd105a2b4616e2
+      internalID: 7351975412220212986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1400
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abeeb6123b301409a19c3f77c6e584
+      internalID: -1310247503504909884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1401
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fdba3d2c05d8a4fb80610197c690db
+      internalID: -7684928598511592544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1260
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a061e0b0bb1ac247b7fde2acc864f52
+      internalID: -3896638496314649084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1261
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957e985fbf730e747aa62af514a43273
+      internalID: 52909911765579847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1260
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd3a73cd89202b42802bffa20284ac5
+      internalID: 7837167933216039917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1261
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcecc1e0c853f6545b78ab895382f7ca
+      internalID: -4479538934776877779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_32
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1260
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e70510b41c4048a4bbf1b1070fbdc
+      internalID: -1744519112130130630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_33
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1261
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422eac7ee72678f45825768f1dfb608e
+      internalID: 5480021717943824374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_34
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1260
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649f80734980101459322d2fb4cde5b6
+      internalID: 6521786192728867472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1121
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1b6ac316aa69438c576ae62ab7514
+      internalID: 7186831716778225664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1121
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8132f3a96dd0e4d4b91ffd00e32d312d
+      internalID: 2186546769346785360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1121
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad773bcef2ee64f8e146faf2ccb395
+      internalID: 838379929251527196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1121
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a18a44d35b634591594db5bc29cae
+      internalID: 3564488284247967418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_39
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1120
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70bd3abf3638854e86f28bc43b2e215
+      internalID: 3004821834038171691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1120
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d176c638bf24245a103af74866b6e1
+      internalID: -777711113387573945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_41
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1120
+        width: 118
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d593fb777aea479e8b4246c44a4de
+      internalID: -5737727131394376571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 980
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b432e48df36241a4bca9d991a2b5b
+      internalID: 6087806040773972449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 981
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7125a1f8deb05c49b416022e9005e1f
+      internalID: 6380427555610774141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 982
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518be3c021ba10748adcfd3601ad5c02
+      internalID: 146016192239530329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 985
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477e185449bdfc14b80665b3dc4ae071
+      internalID: -1649057138621762310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_46
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 985
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef3ebaeb2ded74dacaa955099399e2
+      internalID: -7079535444917359136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 985
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d206d603bac34f99283239653adfc
+      internalID: 2668552325173801986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_48
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 985
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d68d9954591e4b9cd6ff9274511bf
+      internalID: 39218669057183921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 845
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911dcd1f10ea22946b9b9bf99d13e29a
+      internalID: 258083639248837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 845
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a6a3f9be980f4f9507a192b6ccb80
+      internalID: 8415010970456707686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 845
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bb87cedefcda4388e361ee8411bc5
+      internalID: -6076396459163739103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 845
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8b9827dc83b684dae32ec2cf7ea0aa
+      internalID: -3987913744079760744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_53
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 845
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435fe138bd1f084294e8233cccbf43c
+      internalID: -6642635096088020320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_54
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 845
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8ff7f278695d4c9d93cb4294ad417
+      internalID: -2954475737706335733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 845
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8289ac6dbf224bb55a6fd1f729651
+      internalID: -8089938761765046472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084dd24368770c941b67e20ef049e714
+      internalID: -8625798757770666942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 705
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd87e2aaef5b29643ba02cd0ff784ebd
+      internalID: 1235476642860476681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 705
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7940bf5a0d2460438ec0012a4035244
+      internalID: -4281616321259286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d738de091b4da348a90aabe89a7756d
+      internalID: 201548280538697834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_60
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f567dc7f48084d24da49b54624655b61
+      internalID: 1409828026977339557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011dc77763f9b641ba9d09e7cca6cd2
+      internalID: -1323671212578205142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_62
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 705
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531e0f5f89040148814641dc9f580d3
+      internalID: 4182423723312311634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b21e032c6c884ab23c0e53cedbab3
+      internalID: 9173116884484516358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56979bbfabaf905459be154490c61fc9
+      internalID: -2418608315909423836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_65
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354080bf3c4dc8a47a07981b3bdcb7ce
+      internalID: 6983362182623189684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45745adf9316449468b25d7850b76ba8
+      internalID: 6850623465480812397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065636440ce1bd045b79314ab3c918ff
+      internalID: 2131689780957310357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_68
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 565
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835932c0a17db1040bd1368b1304a1a7
+      internalID: -8564481391727563788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_69
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 565
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fdaa01ab0ba045a94faf8484cb547
+      internalID: 9151392143345074802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 425
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aad4c13bf606c41a70128119ff454e
+      internalID: 8398373438361444901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 425
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c1d05534ef20a4abcf40e6476e52cd
+      internalID: -8014743126408921523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 425
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd380e9d4c88f1d48ba048a16177fc0f
+      internalID: -8523072457842123610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_73
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 425
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d12e5eb55f61343a3f474ce73acda3
+      internalID: 5251618877524376386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 425
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ba3b661535c643ae4f03e0d97e149
+      internalID: 6580099256208937112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 425
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225f76547335c04aa43eb916bbffd3f
+      internalID: -447100484127450057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_76
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 425
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70859f2e3ffd288479263424addd00ce
+      internalID: 9171973371751875323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 285
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69edb2bf58a17247bde70a10bc2daf0
+      internalID: -3834467913133252101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b7b14ede00664aaa4a65d0561ad59
+      internalID: 5034984691105966288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_79
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 285
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d301449a07414296611c53209c49a
+      internalID: -1766961680666593368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_80
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 285
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b685387593373d41b3ee340e605a122
+      internalID: 1629761142320243479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_81
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 288
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c7deb9e0d83104699ffc3225a97f74
+      internalID: 8112483527305297985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 289
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541ab622d8aba2b4ba758f5119ce7b6e
+      internalID: 1987356538690775370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_83
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 290
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c821dc4383d340be9ea4762c467d8
+      internalID: -2331160448321133853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 149
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a2a38b4a464a4884cdaefb39f1194
+      internalID: -8839528336627181087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8224fadf5f774187213d333a5f6ca
+      internalID: -7818688449225587603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80827081d44d9945a638d2ac521f127
+      internalID: -2492693709568152311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 145
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52fcd808e3680840954f1938f47a4cc
+      internalID: 7619448893381468640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_88
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 145
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89701c3cc9ff6ea4db7c006162a2d2f6
+      internalID: -6612143084407911661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_89
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 145
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c73037a1e8be454c9649a1693415760
+      internalID: -4423980250523992749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_90
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 145
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fa5489e3222ce40a6ac2d718dcd69f
+      internalID: -3651915578665982902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_91
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f893165ac8426a429211e4ab61b0865
+      internalID: 8189676543826874836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537c0880ed329e42a1ee482819a212a
+      internalID: 9064529784685903430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot_Expand_93
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1794
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53f8ac422d448240b90ee742eb58fab
+      internalID: -1600378680696448079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
