@@ -5,6 +5,9 @@ using UnityEngine;
 public class Defender : MonoBehaviour
 {
     [SerializeField] GameObject projectilePrefab;
+    [SerializeField] float projectileSpeed = 2f;
+
+    GameObject projectile;
 
     private void Start()
     {
@@ -13,8 +16,7 @@ public class Defender : MonoBehaviour
 
     public void ShootProjectile()
     {
-        GameObject projectile = Instantiate(projectilePrefab, 
-            gameObject.transform.GetChild(0).position, Quaternion.identity);
-        Destroy(projectile,1f);
+        projectile = Instantiate(projectilePrefab, 
+        gameObject.transform.GetChild(0).position, Quaternion.identity);
     }
 }
