@@ -5,7 +5,7 @@ using UnityEngine;
 public class Attacker : MonoBehaviour
 {
     [Range(0,10)] float currentSpeed = 1f;
-    //[SerializeField] AnimationClip spawnAnimation;
+    [SerializeField] GameObject projectilePrefab;
 
     void Update()
     {
@@ -16,14 +16,4 @@ public class Attacker : MonoBehaviour
     {
         currentSpeed = speed;
     }
-
-    /*
-    private IEnumerator Walk()
-    {
-        if (spawnAnimation != null) //checks to see if spawn animation exists. 
-        {
-            yield return new WaitForSeconds(spawnAnimation.length);
-        }
-        transform.Translate(Vector2.left * Time.deltaTime * walkingSpeed);
-    }*/
 }
