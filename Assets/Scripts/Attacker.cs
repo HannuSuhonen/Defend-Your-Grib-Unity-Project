@@ -4,14 +4,20 @@ using UnityEngine;
 
 public class Attacker : MonoBehaviour
 {
-    [SerializeField] [Range(0,10)] float walkingSpeed = 1f;
-    [SerializeField] AnimationClip spawnAnimation;
+    [Range(0,10)] float currentSpeed = 1f;
+    //[SerializeField] AnimationClip spawnAnimation;
 
     void Update()
     {
-        StartCoroutine(Walk());
+        transform.Translate(Vector2.left * Time.deltaTime * currentSpeed);
     }
 
+    public void SetMovementSpeed(float speed)
+    {
+        currentSpeed = speed;
+    }
+
+    /*
     private IEnumerator Walk()
     {
         if (spawnAnimation != null) //checks to see if spawn animation exists. 
@@ -19,5 +25,5 @@ public class Attacker : MonoBehaviour
             yield return new WaitForSeconds(spawnAnimation.length);
         }
         transform.Translate(Vector2.left * Time.deltaTime * walkingSpeed);
-    }
+    }*/
 }
