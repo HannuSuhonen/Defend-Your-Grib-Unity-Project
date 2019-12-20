@@ -5,20 +5,26 @@ using UnityEngine;
 public class Health : MonoBehaviour
 {
     [SerializeField] int health = 100;
-    [SerializeField] int damage = 100;
     [SerializeField] GameObject deathVFX;
 
-    Projectile projectile;
-
-    public void DealDamage()
+    public void DealDamage(int damage) //Pass in an integer for damage in projectile.cs
     {
         health -= damage;
         if(health <= 0)
         {
-            GameObject explosion = Instantiate(deathVFX, 
-                transform.position,Quaternion.identity) as GameObject;
-            Destroy(explosion,1f);
+            TriggerVFX();
             Destroy(gameObject);
         }
+    }
+
+    private void TriggerVFX()
+    {
+        if (!deathVFX)
+        {
+            return;
+        }
+        GameObject deathVFXObject = Instantiate(deathVFX,
+        transform.position, Quaternion.identity) as GameObject;
+        Destroy(deathVFXObject, 1f);
     }
 }

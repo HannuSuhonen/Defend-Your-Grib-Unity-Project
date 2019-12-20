@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Attacker : MonoBehaviour
 {
-    [Range(0,10)] float currentSpeed = 1f;
+    [Range(0,10)] float currentSpeed = 1f; //this attribute can be changed in the animation event.  
 
     void Update()
     {

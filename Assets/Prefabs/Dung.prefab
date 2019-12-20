@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 351241991662734042}
   - component: {fileID: 2470599469774859502}
-  - component: {fileID: -1903048720138900110}
   - component: {fileID: -2206629164334033650}
   - component: {fileID: 6198140949475704651}
+  - component: {fileID: -1903048720138900110}
   m_Layer: 0
   m_Name: Dung
   m_TagString: Untagged
@@ -83,19 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-1903048720138900110
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7847018792384871985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 513b74fd258077546959b62ded627ea0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  movementSpeed: 2
 --- !u!61 &-2206629164334033650
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -143,3 +130,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-1903048720138900110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7847018792384871985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513b74fd258077546959b62ded627ea0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 2
+  damage: 100

@@ -164,6 +164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47b29cc9bc942e14b86296e25f4dac78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentSpeed: 1
 --- !u!114 &-1458943526405310033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -177,6 +178,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
-  damage: 100
   deathVFX: {fileID: 7843553209910101714, guid: 4426c3674bcf626449db7f10dc01be67,
     type: 3}
