@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 4572061031154652464}
   - component: {fileID: 4572061031154652471}
   - component: {fileID: 4572061031154652470}
-  - component: {fileID: 244137653}
   - component: {fileID: 111082892800646714}
   - component: {fileID: 4744430856397148844}
+  - component: {fileID: 244137653}
+  - component: {fileID: -1458943526405310033}
   m_Layer: 0
   m_Name: Juju
   m_TagString: Untagged
@@ -104,20 +105,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &244137653
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4572061031154652469}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47b29cc9bc942e14b86296e25f4dac78, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkingSpeed: 1.5
-  spawnAnimation: {fileID: 7400000, guid: 64c96c2043ca36940826a73d2a69dc5f, type: 2}
 --- !u!61 &111082892800646714
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -165,3 +152,31 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &244137653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4572061031154652469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b29cc9bc942e14b86296e25f4dac78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-1458943526405310033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4572061031154652469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c790b27e9f643418d68b7d90fc6da6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  damage: 100
+  deathVFX: {fileID: 7843553209910101714, guid: 4426c3674bcf626449db7f10dc01be67,
+    type: 3}
