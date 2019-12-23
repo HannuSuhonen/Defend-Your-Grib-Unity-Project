@@ -8,7 +8,15 @@ public class DefenderSpawner : MonoBehaviour
     private void OnMouseDown()
     {
         Debug.Log("mouse was clicked");
-        Instantiate(defender, Input.mousePosition, Quaternion.identity);
+        SpawnDefender();
+    }
+
+    private void SpawnDefender()
+    {
+       GameObject newDefender = Instantiate(defender, 
+           Camera.main.ScreenToWorldPoint((Vector2)Input.mousePosition), 
+           Quaternion.identity);
+        Debug.Log((Vector2)Input.mousePosition);
     }
 }
  
