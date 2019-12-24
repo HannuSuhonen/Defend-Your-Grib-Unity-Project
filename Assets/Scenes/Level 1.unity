@@ -130,8 +130,8 @@ GameObject:
   m_Component:
   - component: {fileID: 133306170}
   - component: {fileID: 133306169}
-  - component: {fileID: 133306171}
   - component: {fileID: 133306172}
+  - component: {fileID: 133306171}
   m_Layer: 0
   m_Name: Trophy
   m_TagString: Untagged

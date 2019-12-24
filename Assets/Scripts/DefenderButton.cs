@@ -6,6 +6,11 @@ public class DefenderButton : MonoBehaviour
 {
     private void OnMouseDown()
     {
+        var buttons = FindObjectsOfType<DefenderButton>();
+        foreach(DefenderButton button in buttons)
+        {
+            button.GetComponent<SpriteRenderer>().color = new Color32(46,46,46,255);
+        }
         GetComponent<SpriteRenderer>().color = Color.white;
     }
 }
