@@ -7,7 +7,6 @@ public class DefenderSpawner : MonoBehaviour
     [SerializeField] GameObject defenderPrefab;
     private void OnMouseDown()
     {
-        Debug.Log("mouse was clicked");
         SpawnDefender(GetSquareClicked());
     }
     private Vector2 GetSquareClicked()
