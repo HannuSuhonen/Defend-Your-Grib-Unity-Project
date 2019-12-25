@@ -5,6 +5,7 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
     Defender defender;
+    [SerializeField] int timeToDespawn;
     private void OnMouseDown()
     {
         SpawnDefender(GetSquareClicked());
@@ -38,4 +39,3 @@ public class DefenderSpawner : MonoBehaviour
         Defender newDefender = Instantiate(defender,roundedPos, Quaternion.identity) as Defender;
     }
 }
- 
