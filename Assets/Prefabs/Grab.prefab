@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 6896237558202870164}
   - component: {fileID: 7008520884426761162}
   - component: {fileID: -7775504945050877548}
+  - component: {fileID: -5613984064670699851}
+  - component: {fileID: -4300062426625347763}
   m_Layer: 0
   m_Name: Grab
   m_TagString: Untagged
@@ -115,8 +117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47b29cc9bc942e14b86296e25f4dac78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkingSpeed: 0.57
-  spawnAnimation: {fileID: 0}
 --- !u!50 &7008520884426761162
 Rigidbody2D:
   serializedVersion: 4
@@ -164,3 +164,29 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.1, y: 1.07}
   m_EdgeRadius: 0
+--- !u!114 &-5613984064670699851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749017916917625715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b29cc9bc942e14b86296e25f4dac78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-4300062426625347763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749017916917625715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c790b27e9f643418d68b7d90fc6da6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  deathVFX: {fileID: 0}
