@@ -6,10 +6,12 @@ public class Shooter : MonoBehaviour
 {
     [SerializeField] GameObject projectilePrefab;
     [SerializeField] float projectileSpeed = 2f;
+    [SerializeField] GameObject gunPositionPrefab;
 
     public void ShootProjectile()
     {
-        Instantiate(projectilePrefab, 
-        gameObject.transform.GetChild(0).position, Quaternion.identity);
+        Instantiate(projectilePrefab, gunPositionPrefab.transform.position
+        , Quaternion.identity);
     }
+    //gameObject.transform.GetChild(1).position
 }
