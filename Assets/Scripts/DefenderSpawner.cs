@@ -8,7 +8,7 @@ public class DefenderSpawner : MonoBehaviour
     [SerializeField] int timeToDespawn;
     private void OnMouseDown()
     {
-        SpawnDefender(GetSquareClicked());
+        AttemptToPlaceDefender(GetSquareClicked());
     }
 
     public void SetSelectedDefender(Defender defenderToSelect)
@@ -37,5 +37,18 @@ public class DefenderSpawner : MonoBehaviour
             return;
         }
         Defender newDefender = Instantiate(defender,roundedPos, Quaternion.identity) as Defender;
+    }
+    private void AttemptToPlaceDefender(Vector2 gridPos)
+    {
+        var starDisplay = FindObjectOfType<StarDisplay>();
+        int defenderCost = defender.GetStarCost();
+        if(starDisplay.EnoughStar(defenderCost))
+        {
+            SpawnDefender(gridPos);
+            starDisplay.SubtractStars(defenderCost);
+        }
+        //If enough stars
+            //Spawn
+            //Spend the monies
     }
 }

@@ -26,11 +26,16 @@ public class StarDisplay : MonoBehaviour
 
     public void SubtractStars(int amount)
     {
-        if(stars <= 0)
+        if(stars <= amount)
         {
             return;
         }
         stars -= amount;
         UpdateStarCounter();
+    }
+
+    public bool EnoughStar(int amount)
+    {
+        return stars >= amount;
     }
 }
