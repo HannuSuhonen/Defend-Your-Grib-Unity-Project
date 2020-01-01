@@ -9,30 +9,26 @@ public class Shooter : MonoBehaviour
     [SerializeField] float projectileSpeed = 2f;
 
     AttackerSpawner myLaneSpawner;
+    Animator animator;
 
     private void Start()
     {
         SetSpawnLane();
+        animator = GetComponent<Animator>();
+
     }
 
     private void Update()
     {
         if(IsAttackerInLane())
         {
-            Debug.Log("shoot now!");
+            animator.SetBool("IsAttacking",true);
         }
         else
         {
-            Debug.Log("Wait idly");
-            //TODO: Change animation state to idle anim.
-            //Create idle anim.
+            animator.SetBool("IsAttacking",false);
         }
     }
-
-    /*private bool IsAttackerInLane()
-    {
-        
-    }*/
 
     private void SetSpawnLane()
     {
