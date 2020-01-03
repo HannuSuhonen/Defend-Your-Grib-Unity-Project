@@ -8,6 +8,10 @@ public class DefenderSpawner : MonoBehaviour
     [SerializeField] int timeToDespawn;
     private void OnMouseDown()
     {
+        if(!defender)
+        {
+            return;
+        }
         AttemptToPlaceDefender(GetSquareClicked());
     }
 
