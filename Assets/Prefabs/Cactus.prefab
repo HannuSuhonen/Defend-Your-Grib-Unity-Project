@@ -194,7 +194,7 @@ MonoBehaviour:
   projectilePrefab: {fileID: 1980868016311190066, guid: 34641edaa3df3684dbf26c4d39378ccf,
     type: 3}
   gunPositionPrefab: {fileID: 3463860908253017583}
-  projectileSpeed: 2
+  projectileSpeed: 1
 --- !u!61 &338756842
 BoxCollider2D:
   m_ObjectHideFlags: 0

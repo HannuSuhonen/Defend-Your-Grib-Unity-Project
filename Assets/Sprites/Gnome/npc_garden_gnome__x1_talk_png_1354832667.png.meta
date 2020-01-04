@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 9c27f05804a05ee4293454fdbc817cd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4329090118016939004
+    second: npc_garden_gnome__x1_talk_png_1354832667_0
+  - first:
+      213: 5455866908352008794
+    second: npc_garden_gnome__x1_talk_png_1354832667_1
+  - first:
+      213: -4768528514151548611
+    second: npc_garden_gnome__x1_talk_png_1354832667_2
+  - first:
+      213: 8955849256215559650
+    second: npc_garden_gnome__x1_talk_png_1354832667_3
+  - first:
+      213: -3088849941042789135
+    second: npc_garden_gnome__x1_talk_png_1354832667_4
+  - first:
+      213: -1326336544482467463
+    second: npc_garden_gnome__x1_talk_png_1354832667_5
+  - first:
+      213: -6176942368704326545
+    second: npc_garden_gnome__x1_talk_png_1354832667_6
+  - first:
+      213: -5549940002023714680
+    second: npc_garden_gnome__x1_talk_png_1354832667_7
+  - first:
+      213: -5312682965704743031
+    second: npc_garden_gnome__x1_talk_png_1354832667_8
+  - first:
+      213: 7465919961110789423
+    second: npc_garden_gnome__x1_talk_png_1354832667_9
+  - first:
+      213: 3653301311049213024
+    second: npc_garden_gnome__x1_talk_png_1354832667_10
+  - first:
+      213: -1828438958972716621
+    second: npc_garden_gnome__x1_talk_png_1354832667_11
+  - first:
+      213: 1672652338320056819
+    second: npc_garden_gnome__x1_talk_png_1354832667_12
+  - first:
+      213: 2508188286882887860
+    second: npc_garden_gnome__x1_talk_png_1354832667_13
+  - first:
+      213: 8351982938292432453
+    second: npc_garden_gnome__x1_talk_png_1354832667_14
+  - first:
+      213: 6020425521887024596
+    second: npc_garden_gnome__x1_talk_png_1354832667_15
+  - first:
+      213: 8772524619065079714
+    second: npc_garden_gnome__x1_talk_png_1354832667_16
+  - first:
+      213: -7464172023079685655
+    second: npc_garden_gnome__x1_talk_png_1354832667_17
+  - first:
+      213: 5838047628926855315
+    second: npc_garden_gnome__x1_talk_png_1354832667_18
+  - first:
+      213: 6547294357675803346
+    second: npc_garden_gnome__x1_talk_png_1354832667_19
+  - first:
+      213: 6726239183768091586
+    second: npc_garden_gnome__x1_talk_png_1354832667_20
+  - first:
+      213: -1899238581387707524
+    second: npc_garden_gnome__x1_talk_png_1354832667_21
+  - first:
+      213: 983518181122589626
+    second: npc_garden_gnome__x1_talk_png_1354832667_22
+  - first:
+      213: 2722243469064784460
+    second: npc_garden_gnome__x1_talk_png_1354832667_23
+  - first:
+      213: -7208547204750531576
+    second: npc_garden_gnome__x1_talk_png_1354832667_24
+  - first:
+      213: 3811109593302343785
+    second: npc_garden_gnome__x1_talk_png_1354832667_25
+  - first:
+      213: -8895038822164508286
+    second: npc_garden_gnome__x1_talk_png_1354832667_26
+  - first:
+      213: 158700272724885129
+    second: npc_garden_gnome__x1_talk_png_1354832667_27
+  - first:
+      213: 2817870702254667349
+    second: npc_garden_gnome__x1_talk_png_1354832667_28
+  - first:
+      213: -7910122374614273670
+    second: npc_garden_gnome__x1_talk_png_1354832667_29
+  - first:
+      213: 5910851626660725227
+    second: npc_garden_gnome__x1_talk_png_1354832667_30
+  - first:
+      213: -8007339189021290131
+    second: npc_garden_gnome__x1_talk_png_1354832667_31
+  - first:
+      213: -2219076557211822990
+    second: npc_garden_gnome__x1_talk_png_1354832667_32
+  - first:
+      213: -5261386263006983162
+    second: npc_garden_gnome__x1_talk_png_1354832667_33
+  - first:
+      213: 2166942012696888319
+    second: npc_garden_gnome__x1_talk_png_1354832667_34
+  - first:
+      213: 2154902379165922411
+    second: npc_garden_gnome__x1_talk_png_1354832667_35
+  - first:
+      213: -6276377482639913885
+    second: npc_garden_gnome__x1_talk_png_1354832667_36
+  - first:
+      213: 6164668914379812313
+    second: npc_garden_gnome__x1_talk_png_1354832667_37
+  - first:
+      213: -37463653167432365
+    second: npc_garden_gnome__x1_talk_png_1354832667_38
+  - first:
+      213: 2298669013747330735
+    second: npc_garden_gnome__x1_talk_png_1354832667_39
+  - first:
+      213: -2368309965399721728
+    second: npc_garden_gnome__x1_talk_png_1354832667_40
+  - first:
+      213: -950232932924011681
+    second: npc_garden_gnome__x1_talk_png_1354832667_41
+  - first:
+      213: 2274942316934966679
+    second: npc_garden_gnome__x1_talk_png_1354832667_42
+  - first:
+      213: 6931817683483024319
+    second: npc_garden_gnome__x1_talk_png_1354832667_43
+  - first:
+      213: 4290759283106828296
+    second: npc_garden_gnome__x1_talk_png_1354832667_44
+  - first:
+      213: -8627494767607100945
+    second: npc_garden_gnome__x1_talk_png_1354832667_45
+  - first:
+      213: 3252908514269567914
+    second: npc_garden_gnome__x1_talk_png_1354832667_46
+  - first:
+      213: -8831877355028266977
+    second: npc_garden_gnome__x1_talk_png_1354832667_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9749c57748cde05469107f387865e7ec
+      internalID: -4329090118016939004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab7c271f1ef344788b1b5e79bc52be
+      internalID: 5455866908352008794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0789dc37921c0847980dc2c2ef79a26
+      internalID: -4768528514151548611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf87c4dd68c30499c973132e956b47
+      internalID: 8955849256215559650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f686645cb39144a12dd45e9bb6a03
+      internalID: -3088849941042789135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b5e6da19c1b84aa64a7266fd71209
+      internalID: -1326336544482467463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25aa6af741c3bd47b0d9fadce817b31
+      internalID: -6176942368704326545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce36c60cfe51104b8e3719c6c3720f2
+      internalID: -5549940002023714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf841e7a4efea4fb2f350f772fe0f3
+      internalID: -5312682965704743031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dea3b303349a34ca9402cfb04489ca
+      internalID: 7465919961110789423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39f0e30c6369243a70f8b6805b3623
+      internalID: 3653301311049213024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 450
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6640b069735254eb5ac531c0656cdd
+      internalID: -1828438958972716621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7668e3b5e18824b951d05418971bf3
+      internalID: 1672652338320056819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406444561f4fc91479605ea71ad52387
+      internalID: 2508188286882887860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da2cf82a933464493abeded8850657
+      internalID: 8351982938292432453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9bb66974274454898c4919fd113d64
+      internalID: 6020425521887024596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b4218f9b07ffc428c1f5b71ce440b8
+      internalID: 8772524619065079714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acd836ada99984daccf2b2bba9f3a1
+      internalID: -7464172023079685655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7eb6a32b2f9b4dace5ea17a533288
+      internalID: 5838047628926855315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6b9896c3c98b43954ccfbd8956c1c
+      internalID: 6547294357675803346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb252f9075b512944934bdbfe0d6acb9
+      internalID: 6726239183768091586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aaa72c034f7364eb32a59d0c3f7894
+      internalID: -1899238581387707524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f953b8b8f7df7546ac05c3a8d3fce43
+      internalID: 983518181122589626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095501c9511a0340936652bb9e6b626
+      internalID: 2722243469064784460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42b9b1f8b0dfb499ba38bc561a0ceb
+      internalID: -7208547204750531576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cabad6da7cf514b90f50fbd646531b
+      internalID: 3811109593302343785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87390f3fb17a064e9a2fbc957496b7e
+      internalID: -8895038822164508286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ee18057a6b10247b322be28040e1d6
+      internalID: 158700272724885129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785eb20f4bfa0604cab5881ba75a540f
+      internalID: 2817870702254667349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5527326b9845a44aac1148ea703646
+      internalID: -7910122374614273670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006fd1015bec0f41a33fbef07f39da6
+      internalID: 5910851626660725227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0880ae06b93784b9d7d74560104449
+      internalID: -8007339189021290131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6e91958a98044087cd6d51c3422b2
+      internalID: -2219076557211822990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983b1ea15e55344e97434a000d3ef71
+      internalID: -5261386263006983162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae4f847c2e1e447a2424e7c8e67317
+      internalID: 2166942012696888319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145a7d3acaf2594fa51dc77f922500f
+      internalID: 2154902379165922411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03ead2babb8c34a94236d0b51f9689
+      internalID: -6276377482639913885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f0a11b656c7ab45817aa275bc3e354
+      internalID: 6164668914379812313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf7bef6f6fe68b4c98dcfde88c150f9
+      internalID: -37463653167432365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84956231014e946b0f768ae924b282
+      internalID: 2298669013747330735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aea9561799966408175e3229e329f6
+      internalID: -2368309965399721728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d77c0959215d447bcab81da225a355
+      internalID: -950232932924011681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4248bbe65f14645a5b1ecaab9811f1
+      internalID: 2274942316934966679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710fe0657a1c2d47bcbea66a34337bb
+      internalID: 6931817683483024319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c47569ce8a2c984380fc3ad10314866
+      internalID: 4290759283106828296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4165af58859b438d29d43b31e6f83
+      internalID: -8627494767607100945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac45ddbd0f3fd145b602bb449912f9e
+      internalID: 3252908514269567914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_talk_png_1354832667_47
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0a5e7cd0d42d499ef63af545f0c64
+      internalID: -8831877355028266977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

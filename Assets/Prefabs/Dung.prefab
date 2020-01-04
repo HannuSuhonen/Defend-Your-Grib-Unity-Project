@@ -144,7 +144,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 2
-  damage: 100
+  damage: 10
+  explosionPrefab: {fileID: 7843553209910101714, guid: 4426c3674bcf626449db7f10dc01be67,
+    type: 3}
 --- !u!95 &-5609239192840646810
 Animator:
   serializedVersion: 3
