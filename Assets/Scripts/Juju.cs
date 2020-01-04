@@ -10,7 +10,6 @@ public class Juju : MonoBehaviour
         var defender = target.GetComponent<Defender>();
         if(target.GetComponent<Defender>())
         {
-            Debug.Log("touch defender");
             GetComponent<Attacker>().Attack(target);
         }
         

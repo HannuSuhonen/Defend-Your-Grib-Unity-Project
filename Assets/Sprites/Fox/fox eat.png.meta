@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 20e081a48f7e5d1449fac99f2d9353f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6756620124061710618
+    second: fox eat_0
+  - first:
+      213: 8123024278995130893
+    second: fox eat_1
+  - first:
+      213: 117450939930460535
+    second: fox eat_2
+  - first:
+      213: 5838180495043402739
+    second: fox eat_3
+  - first:
+      213: 4941163260890075276
+    second: fox eat_4
+  - first:
+      213: -5331044060607830220
+    second: fox eat_5
+  - first:
+      213: 6612461978621970790
+    second: fox eat_6
+  - first:
+      213: -623318897265818518
+    second: fox eat_7
+  - first:
+      213: -1155801109032479064
+    second: fox eat_8
+  - first:
+      213: -8212746946875595436
+    second: fox eat_9
+  - first:
+      213: -8002065029138762577
+    second: fox eat_10
+  - first:
+      213: 5406638520335536493
+    second: fox eat_11
+  - first:
+      213: 2436898037383679976
+    second: fox eat_12
+  - first:
+      213: -8103773603152011047
+    second: fox eat_13
+  - first:
+      213: -6018418267333026748
+    second: fox eat_14
+  - first:
+      213: -1674295271062227197
+    second: fox eat_15
+  - first:
+      213: 8200521829293286801
+    second: fox eat_16
+  - first:
+      213: -627202290455249870
+    second: fox eat_17
+  - first:
+      213: 3895751594390524306
+    second: fox eat_18
+  - first:
+      213: 6572073088294233207
+    second: fox eat_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fox eat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 426
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30567c372892e4982860841f40df1e
+      internalID: 6756620124061710618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 426
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56920d646464cb4a975156e92da5c5a
+      internalID: 8123024278995130893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 426
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247da3471b3c0a428cda2065c0994bb
+      internalID: 117450939930460535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 425
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7378f5dcf2d0746a2d0e293fcf79f8
+      internalID: 5838180495043402739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 424
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59b66dcfc1e8a48875baa1b45e2131
+      internalID: 4941163260890075276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 284
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40cf09ea166b64186b7a03ddecaba1
+      internalID: -5331044060607830220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 284
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3af217831f5f94184b911308814dcd
+      internalID: 6612461978621970790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 285
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa561d6f637904842b09f9d2ab35893f
+      internalID: -623318897265818518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 286
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01539d532d34c684ab543436364b035b
+      internalID: -1155801109032479064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 287
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15576792c4ce9a74691cdeb65de3fa4f
+      internalID: -8212746946875595436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d30a75a383c84f9d52766d813c9c2
+      internalID: -8002065029138762577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ba909c2871c949a2b791d034e0655
+      internalID: 5406638520335536493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_12
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 148
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703906c29eed784880a6725472bff26
+      internalID: 2436898037383679976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 147
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee082b3f7ca9df418ab4f7c823d2bce
+      internalID: -8103773603152011047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 146
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2cc914a6a7562478482c2600f0a1ec
+      internalID: -6018418267333026748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48f178c384019449a8f7fba375bd69
+      internalID: -1674295271062227197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c919838ee00dc429feb7bd95205605
+      internalID: 8200521829293286801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 7
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71eb64150fae1646a4f992ababb0de1
+      internalID: -627202290455249870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6a5dd826d8e1488ba81f319a9a31c
+      internalID: 3895751594390524306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox eat_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 9
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9bf51ebf962f4995d45c264c656f8
+      internalID: 6572073088294233207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
