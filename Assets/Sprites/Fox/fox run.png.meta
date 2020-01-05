@@ -38,6 +38,42 @@ TextureImporter:
   - first:
       213: 8397440511607509106
     second: npc_fox_fox_orangeFox_x1_run_png_1354839587_11
+  - first:
+      213: -1596593477956930277
+    second: fox run_0
+  - first:
+      213: -1396901783311807663
+    second: fox run_1
+  - first:
+      213: -4223973696258466908
+    second: fox run_2
+  - first:
+      213: 1910006164568591963
+    second: fox run_3
+  - first:
+      213: 1462177848007663773
+    second: fox run_4
+  - first:
+      213: 2743869044522597951
+    second: fox run_5
+  - first:
+      213: 5680481557134291430
+    second: fox run_6
+  - first:
+      213: 1670280260050261855
+    second: fox run_7
+  - first:
+      213: 9008622192392458246
+    second: fox run_8
+  - first:
+      213: -6388681188802641276
+    second: fox run_9
+  - first:
+      213: 7808059104297217753
+    second: fox run_10
+  - first:
+      213: -7502850301260153964
+    second: fox run_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -122,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_0
+      name: fox run_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 152
-        width: 128
-        height: 44
+        x: 0
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f59ae3c6daddf249971382e5e19c519
-      internalID: -8849493650544006345
+      spriteID: dae093506ae2abd418127fb13800565b
+      internalID: -1596593477956930277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_1
+      name: fox run_1
       rect:
         serializedVersion: 2
-        x: 163
-        y: 152
-        width: 127
-        height: 43
+        x: 153
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fda09f1dae2123f4ea0d79b9aae92c33
-      internalID: -8567764780429449972
+      spriteID: e061a2565cb285a46a90cab02fe66e88
+      internalID: -1396901783311807663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_2
+      name: fox run_2
       rect:
         serializedVersion: 2
-        x: 315
-        y: 151
-        width: 127
-        height: 43
+        x: 306
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44903623f19315f469cff71361c4a025
-      internalID: -5637587018992415149
+      spriteID: ac14b99c97cc49f4d975f2a3b80bbd91
+      internalID: -4223973696258466908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_3
+      name: fox run_3
       rect:
         serializedVersion: 2
-        x: 468
-        y: 151
-        width: 124
-        height: 43
+        x: 459
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d84e642fd2c85a54e9c216da4a904163
-      internalID: -6355327605382334164
+      spriteID: 48b7089c842052c41876062859cfe6ae
+      internalID: 1910006164568591963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_4
+      name: fox run_4
       rect:
         serializedVersion: 2
-        x: 621
-        y: 151
-        width: 131
-        height: 43
+        x: 612
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c1695223e40bb544bdc74de7e6eea0e
-      internalID: 5243278257957614616
+      spriteID: 913ad4772e98937459105ab70b7ab9a6
+      internalID: 1462177848007663773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_5
+      name: fox run_5
       rect:
         serializedVersion: 2
-        x: 775
-        y: 149
-        width: 131
-        height: 44
+        x: 765
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 658f133d66b6b544495655bf719be264
-      internalID: -3063423037862460966
+      spriteID: 542f94b1672a87f48899075da6cd1cab
+      internalID: 2743869044522597951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_6
+      name: fox run_6
       rect:
         serializedVersion: 2
-        x: 11
-        y: 13
-        width: 129
-        height: 41
+        x: 0
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,20 +298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f812273868dcb7243a34cf7053f5eb78
-      internalID: -4331528809330703519
+      spriteID: 58bac3a37554d9f46adcb046f1d0115c
+      internalID: 5680481557134291430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_7
+      name: fox run_7
       rect:
         serializedVersion: 2
-        x: 165
-        y: 13
-        width: 129
-        height: 42
+        x: 153
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +319,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ac04771c30322d4fbec1e74a2df258f
-      internalID: -4041264319406950549
+      spriteID: a67662fab26fce74a937bdeab1f97cd6
+      internalID: 1670280260050261855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_8
+      name: fox run_8
       rect:
         serializedVersion: 2
-        x: 320
-        y: 14
-        width: 127
-        height: 41
+        x: 306
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,20 +340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36932fae9a4ecd14cb7bc272b8fc28e7
-      internalID: 4539714465126721684
+      spriteID: a5eb6b3e140c62d4a88466754e76d873
+      internalID: 9008622192392458246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_9
+      name: fox run_9
       rect:
         serializedVersion: 2
-        x: 472
-        y: 13
-        width: 129
-        height: 43
+        x: 459
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,20 +361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb26a8e34ef43754db6a4d4e117c687c
-      internalID: -6159300115980324176
+      spriteID: 17960c6d930a39c439c6f9fdbac0017d
+      internalID: -6388681188802641276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_10
+      name: fox run_10
       rect:
         serializedVersion: 2
-        x: 625
-        y: 11
-        width: 133
-        height: 46
+        x: 612
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd5f9040485cc6c4a9116c855e265056
-      internalID: -3495166169344346822
+      spriteID: 0b6dc430af9f4294896c978c6bcf3efc
+      internalID: 7808059104297217753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_run_png_1354839587_11
+      name: fox run_11
       rect:
         serializedVersion: 2
-        x: 777
-        y: 12
-        width: 134
-        height: 45
+        x: 765
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,8 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc3e12b680131204a85354531f1d89cb
-      internalID: 8397440511607509106
+      spriteID: 370ff0edd7f9e4244b367983f414d05c
+      internalID: -7502850301260153964
       vertices: []
       indices: 
       edges: []
