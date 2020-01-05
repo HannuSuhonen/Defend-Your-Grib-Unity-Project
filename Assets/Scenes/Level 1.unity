@@ -666,6 +666,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
         type: 3}
+      propertyPath: enemyPrefabs.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
       propertyPath: enemyPrefab
       value: 
       objectReference: {fileID: 7367240346626092791, guid: 35acc9f57b0d7864aaeb0de7b1e549e9,
@@ -680,6 +685,24 @@ PrefabInstance:
       propertyPath: max
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
+      propertyPath: enemyPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 6896237558202870164, guid: e6c11027b18b9fa488ccdee82d83888f,
+        type: 3}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
+      propertyPath: enemyPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 244137653, guid: c994c1b807c69e446bbf090fa2e76910,
+        type: 3}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
+      propertyPath: enemyPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 7367240346626092791, guid: 35acc9f57b0d7864aaeb0de7b1e549e9,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 615c17e21267b4147a4bc9a9ceaa74ef, type: 3}
 --- !u!4 &828213609 stripped
@@ -1538,6 +1561,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
         type: 3}
+      propertyPath: enemyPrefabs.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
       propertyPath: min
       value: 7
       objectReference: {fileID: 0}
@@ -1546,5 +1574,17 @@ PrefabInstance:
       propertyPath: max
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
+      propertyPath: enemyPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 244137653, guid: c994c1b807c69e446bbf090fa2e76910,
+        type: 3}
+    - target: {fileID: 8878816169669034005, guid: 615c17e21267b4147a4bc9a9ceaa74ef,
+        type: 3}
+      propertyPath: enemyPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 7367240346626092791, guid: 35acc9f57b0d7864aaeb0de7b1e549e9,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 615c17e21267b4147a4bc9a9ceaa74ef, type: 3}

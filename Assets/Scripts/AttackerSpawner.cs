@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class AttackerSpawner : MonoBehaviour
 {
-    [SerializeField] Attacker enemyPrefab; //using Attacker Class here as its assigned to the revelant prefab. 
+    [SerializeField] Attacker[] enemyPrefabs; //using Attacker Class here as its assigned to the revelant prefab. 
     [SerializeField] bool spawn = true;
     [SerializeField] float min = 1f;
     [SerializeField] float max = 5f;
@@ -22,7 +22,14 @@ public class AttackerSpawner : MonoBehaviour
 
     private void SpawnAttacker()
     {
-        Attacker newAttacker = Instantiate(enemyPrefab, transform.position, Quaternion.identity) as Attacker;
+        Spawn();
+    }
+
+    private void Spawn()
+    {
+        int index;
+        index = UnityEngine.Random.Range(0,enemyPrefabs.Length);
+        Attacker newAttacker = Instantiate(enemyPrefabs[index], transform.position, Quaternion.identity) as Attacker;
         newAttacker.transform.parent = transform;
     }
 }
