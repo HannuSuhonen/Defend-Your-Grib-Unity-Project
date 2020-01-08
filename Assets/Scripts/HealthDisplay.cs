@@ -8,8 +8,8 @@ public class HealthDisplay : MonoBehaviour
 {
 
     Text healthDisplay;
-    int health = 20;
-    int healthLoss = 10;
+    [SerializeField] int health = 5;
+    int healthLoss = 1;
     int sceneLoadDelay = 2;
 
     // Start is called before the first frame update

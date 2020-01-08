@@ -13,7 +13,6 @@ public class Fox : MonoBehaviour
         }
         else if(target.GetComponent<Defender>())
         {
-            Debug.Log("I attack");
             GetComponent<Attacker>().Attack(target);
         }
     }
