@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class LevelController : MonoBehaviour
 {
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
     Slider slider;
     void Start()
     {
@@ -20,6 +21,7 @@ public class LevelController : MonoBehaviour
         Attacker[] attackers = FindObjectsOfType<Attacker>();
         if(attackers.Length <= 0 && slider.value >= 1)
         {
+            if(loseLabel.activeSelf) return;
             StartCoroutine(HandleWinCondition());
         }
     }
@@ -28,6 +30,17 @@ public class LevelController : MonoBehaviour
     {
         winLabel.SetActive(true);
         yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene(1);
+    }
+
+    public void ResetLevel()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex);
+    }
+
+    public void MainMenu()
+    {
         SceneManager.LoadScene(1);
     }
 

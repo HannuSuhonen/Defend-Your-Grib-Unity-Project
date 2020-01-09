@@ -33,9 +33,9 @@ public class HealthDisplay : MonoBehaviour
     {
         if(health <= 0)
         {
-            loseLabel.SetActive(true);
             yield return new WaitForSeconds(sceneLoadDelay);
-            SceneManager.LoadScene(1);
+            loseLabel.SetActive(true);
+            Time.timeScale = 0;
         }
     }
 }
