@@ -9,10 +9,15 @@ public class LevelController : MonoBehaviour
     [SerializeField] GameObject winLabel;
     [SerializeField] GameObject loseLabel;
     Slider slider;
+
+    void Awake() 
+    {
+        slider = FindObjectOfType<Slider>();
+    }
+
     void Start()
     {
         winLabel.SetActive(false);
-        slider = FindObjectOfType<Slider>();
     }
 
     // Update is called once per frame
@@ -29,9 +34,9 @@ public class LevelController : MonoBehaviour
     IEnumerator HandleWinCondition()
     {
         winLabel.SetActive(true);
+        //Time.timeScale = 0;
         yield return new WaitForSeconds(3f);
         SceneManager.LoadScene(1);
-        Time.timeScale = 1;
     }
 
     public void ResetLevel()

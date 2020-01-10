@@ -6,21 +6,24 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour
 {
-    [SerializeField]int waitForSeconds = 3;
-    void Start()
-    {
-        StartCoroutine(WaitForTime());
-    }
-
-    IEnumerator WaitForTime()
-    {
-        yield return new WaitForSeconds(waitForSeconds);
-        LoadNextScene(); 
-    }
-
     public void LoadNextScene()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex + 1);
+        Time.timeScale = 1;
+    }
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+    public void LoadOptionsMenu()
+    {
+        SceneManager.LoadScene(3);
     }
 }
