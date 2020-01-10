@@ -31,17 +31,20 @@ public class LevelController : MonoBehaviour
         winLabel.SetActive(true);
         yield return new WaitForSeconds(3f);
         SceneManager.LoadScene(1);
+        Time.timeScale = 1;
     }
 
     public void ResetLevel()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex);
+        Time.timeScale = 1;
     }
 
     public void MainMenu()
     {
         SceneManager.LoadScene(1);
+        Time.timeScale = 1;
     }
 
     public bool SetSpawn()
