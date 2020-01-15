@@ -784,6 +784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 5
   loseLabel: {fileID: 5756541450925341614}
+  difficultySlider: {fileID: 0}
 --- !u!224 &1325275043 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7970963261648779319, guid: c21cf920fb2ed75448b747c460b5ab1a,

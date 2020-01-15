@@ -5,10 +5,12 @@ using UnityEngine;
 public class PlayerPrefsController : MonoBehaviour
 {
     const string MASTER_VOLUME_KEY = "master volume";
-    const string DIFFICULTY_KEY = "difficulty";
+    const string MASTER_DIFFICULTY_KEY = "difficulty";
 
     const float MIN_VOLUME = 0f;
     const float MAX_VOLUME = 1f;
+    const int MIN_DIFFICULTY = 1;
+    const int MAX_DIFFICULTY = 5;
     
     public static void SetMasterVolume(float volume)
     {
@@ -20,6 +22,23 @@ public class PlayerPrefsController : MonoBehaviour
         {
             Debug.LogError("Master Volume is Out of range");
         }
+    }
+
+    public static void SetMasterDifficulty(float difficulty)
+    {
+        if(difficulty >= MIN_DIFFICULTY && difficulty <= MAX_DIFFICULTY)
+        {
+            PlayerPrefs.SetFloat(MASTER_DIFFICULTY_KEY,difficulty);
+        }
+        else
+        {
+            Debug.LogError("Master Difficulty is Out of range");
+        }
+    }
+
+    public static float GetMasterDifficulty()
+    {
+        return PlayerPrefs.GetFloat(MASTER_DIFFICULTY_KEY);
     }
 
     public static float GetMasterVolume()
