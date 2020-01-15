@@ -4,8 +4,24 @@ using UnityEngine;
 
 public class DefenderSpawner : MonoBehaviour
 {
-    Defender defender;
     [SerializeField] int timeToDespawn;
+    Defender defender;
+    GameObject defenderParent;
+    const string DEFENDER_PARENT_NAME = "Defenders";
+    private void Start() 
+    {
+        CreateDefenderParent();
+    }
+
+    private void CreateDefenderParent()
+    {
+        defenderParent = GameObject.Find(DEFENDER_PARENT_NAME);
+        if(!defenderParent)
+        {
+            defenderParent = new GameObject(DEFENDER_PARENT_NAME);
+        }
+    }
+
     private void OnMouseDown()
     {
         if(!defender)
@@ -41,6 +57,7 @@ public class DefenderSpawner : MonoBehaviour
             return;
         }
         Defender newDefender = Instantiate(defender,roundedPos, Quaternion.identity) as Defender;
+        newDefender.transform.parent = defenderParent.transform;
     }
     private void AttemptToPlaceDefender(Vector2 gridPos)
     {
@@ -51,8 +68,5 @@ public class DefenderSpawner : MonoBehaviour
             SpawnDefender(gridPos);
             starDisplay.SubtractStars(defenderCost);
         }
-        //If enough stars
-            //Spawn
-            //Spend the monies
     }
 }

@@ -15,7 +15,6 @@ public class Shooter : MonoBehaviour
     {
         SetSpawnLane();
         animator = GetComponent<Animator>();
-
     }
 
     private void Update()

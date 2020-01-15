@@ -9,6 +9,24 @@ public class Projectile : MonoBehaviour
     [SerializeField] GameObject explosionPrefab;
     float rotationSpeed = 75f;
 
+    GameObject parentProjectile;
+    const string PARENT_PROJECTILE = "Projectiles";
+
+    private void Start() 
+    {
+        CreateProjectileParent();
+    }
+
+    private void CreateProjectileParent()
+    {
+        parentProjectile = GameObject.Find(PARENT_PROJECTILE);
+        if(!parentProjectile)
+        {
+            parentProjectile = new GameObject(PARENT_PROJECTILE);
+        }
+        gameObject.transform.parent = parentProjectile.transform;
+    }
+
     void Update()
     {
         transform.Translate(Vector2.right * Time.deltaTime * movementSpeed);
